@@ -1,4 +1,4 @@
-# WiFi-Network-Scanner
+# WiFi-Network-Scanner.
 Created By     : x_4rch4n63l_x
 Created On     : 3/30/2025 - 3:40AM
 Script Purpose : To scan and display available WiFi networks using the 'netsh wlan' 
